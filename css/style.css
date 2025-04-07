@@ -1,0 +1,220 @@
+.navbar-brand {
+    font-size: 28px;
+}
+
+.bg-image {
+    background-image: url(../images/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.font-size {
+    font-size: 70px;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0, .2);
+}
+
+.details .linespacing {
+    line-height: 35px;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+}
+
+.services hr {
+    width: 5%;
+}
+
+.services h1 {
+    font-size: 48px;
+    font-family: "Roboto Mono", monospace;
+}
+
+.design {
+    font-size: 40px;
+    width: 100px;
+    height: 100px;
+    padding-top: 20px;
+}
+.big-i{
+    border: #0078FF solid 6px;
+    border-radius: 50%;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+.big-i:hover{
+    border: #cbd8e6 solid 6px;
+    background-color: #0078FF;
+    color: azure;
+}
+.statistics{
+    background-image: url(../images/post-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#work hr {
+    width: 5%;
+}
+#work h1 {
+    font-size: 48px;
+    font-family: "Roboto Mono", monospace;
+}
+.c-img{
+    width: 100%;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+.c-img:hover{
+    transform: scale(125%);
+    -webkit-transform: scale(125%);
+    -moz-transform: scale(125%);
+    -ms-transform: scale(125%);
+    -o-transform: scale(125%);
+}
+.plus{
+    padding: 4px;
+    margin: 15px 15px 0px 0px;
+}
+.fa-plus{
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+.xavi{
+    width: 150px;
+}
+.carousel-inner{
+    padding: 200px;
+}
+.absolute{
+    position: relative;
+    bottom: 15px;
+    border-radius: 5px;
+    padding-top: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.w-small{
+    width: 30px;
+}
+#blog h5{
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+#blog h5:hover{
+color: 
+#0078FF
+}
+.h-b{
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+.h-b:hover{
+    color: 
+    #0078FF
+}
+.hr-w{
+    width: 100px;
+}
+.b-c{
+    margin-left: 160px;
+    font-size: 20px;
+    transition:all 1s ;
+    -webkit-transition:all 1s ;
+    -moz-transition:all 1s ;
+    -ms-transition:all 1s ;
+    -o-transition:all 1s ;
+}
+.b-c:hover{
+    border: 1px solid #80b2ec;
+    background-color: #80b2ec;
+}
+#contact{
+    padding: 50px;
+}
+.spacing{
+    padding: 50px;
+}
+.high{
+    line-height: 30px;
+    font-size: 20px;
+    font-family: "Roboto Mono", monospace;
+}
+.big{
+    border: #0078FF solid 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    font-size: 25px;
+    padding: 7px;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all .5s;
+}
+.big:hover{
+    border: #cbd8e6 solid 2px;
+    background-color: #0078FF;
+    color: azure;
+}
+.stretch{
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(0, 0, 0,0.5);
+}
+.appear{
+    z-index: 9999;
+}
+.stretch-b{
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(3, 121, 255, 0.5)
+
+}
+.st-b{
+    position: relative;
+}
+.st-bg{
+    background-image: url(../images/overlay-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.pos-r{
+    position: relative;
+}
+.stretch-tree{
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(3, 121, 255, 0.5)
+}
